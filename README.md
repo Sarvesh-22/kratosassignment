@@ -1,7 +1,8 @@
 Week 3- assignment
+
 Question 1-
   pub_hello.py- creates a publisher node to publish hello world! at the rate of 1 Hz
-  sub_hello.py- subscribes from pub_hello.py using the new method and displays the same message as the publisher at a given rate
+  sub_hello.py- subscribes from pub_hello.py using the new method and displays the same message as the publisher at a given                     rate
  
 Question 2-
   signal1.py- publishes red or green depending upon the time interval of 10 seconds using s1 topic
